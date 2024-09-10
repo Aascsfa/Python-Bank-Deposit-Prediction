@@ -1,4 +1,4 @@
-# Assignment: Artificial Intelligence (41040)
+# Assignment: Introduction to Artificial Intelligence (41040)
 
 ## Problem and Context
 This project focuses on evaluating the effectiveness of a direct marketing campaign for a Portuguese bank using machine learning. The goal is to predict whether a customer subscribed to a term deposit after the campaign. The dataset, available on Kaggle, includes over 45,000 rows and 17 attributes.
